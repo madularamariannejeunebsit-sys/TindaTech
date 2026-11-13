@@ -1,0 +1,6 @@
+{
+  "name": "TindaTech",
+  "description": "Digital sari-sari store management application for product pricing, stock tracking, daily sales, and suki utang ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
